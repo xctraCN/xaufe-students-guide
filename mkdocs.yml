@@ -1,0 +1,8 @@
+site_name: 西安财经大学学生手册
+site_description: XAUFE Student Guide 西安财经大学学生手册旨在通过对学校全方面的介绍，降低新生了解学校的时间成本，同时给予老生在学习和生活方面的一些建议。
+site_author: XCTRA, HikariLan and contributors.
+copyright:  Creative Commons Attribution Non Commercial 4.0 International（知识共享 署名-非商业性使用 4.0 国际）
+
+theme:
+  name: material
+  locale: zh
